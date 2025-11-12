@@ -107,7 +107,7 @@ export default function Contact() {
             </div>
 
             {/* Resume Download */}
-            <a href="/sureshi siriwardena.pdf" download>
+            <a href="/SureshiSiriwardena.pdf" download>
               <div className="p-6 rounded-xl text-[#1C1C1C] transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer" style={{ backgroundColor: "#FFC857" }}>
                 <div className="flex items-center space-x-3 mb-2">
                   <FileDown className="w-6 h-6" />
